@@ -1,4 +1,6 @@
+### Language Translator using Microsoft Tranlator API
 
+Hello everyone! This is a simple translator web app that I have created using React and can translate over 118 languages using Microsoft API.It has features like language reversal, input clearing, and error handling. Integrated RapidAPI for secure API key management and requests, ensuring robust and accurate language translation.
 
 In the project directory, you can run:
 
